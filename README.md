@@ -1,24 +1,10 @@
-# anida-about-us
+# ANIDA About Us Page Project
 
-## Project setup
-```
-yarn install
-```
+## `[Click here for the live demo](https://rocky-island-00950.herokuapp.com/)`
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## To run the project locally
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Clone this repo.
+- Run `yarn install`.
+- Run `yarn start`.
+- Go to localhost with port 8080 (unless the app is running on some other port).
