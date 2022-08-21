@@ -1,6 +1,6 @@
 # ANIDA About Us Page Project
 
-## `[Click here for the live demo](https://rocky-island-00950.herokuapp.com/)`
+## [Click here for the live demo](https://rocky-island-00950.herokuapp.com/)
 
 ## To run the project locally
 
